@@ -1,0 +1,10 @@
+name: Festive
+description: Add special festive events to your server.
+author: Venetius
+main: nl.venetiushosting.festive.Main
+version: 1.0
+api-version: 1.19
+commands:
+  festive:
+    aliases: [fe]
+    description: This is the base command.
